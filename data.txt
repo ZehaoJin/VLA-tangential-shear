@@ -1,0 +1,7 @@
+averged tangential shear:
+[[ 0.03239311  0.00984522  0.01310176  0.02922001]]
+mean of randomized tangential shear:
+[[-0.00159483 -0.00087723  0.00155426  0.00099844]]
+standard deviation(1/2length of whole error bar):
+[[ 0.03862185  0.03717652  0.04058252  0.03926054]]
+
