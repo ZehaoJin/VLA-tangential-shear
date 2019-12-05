@@ -36,5 +36,8 @@ In the end we calculated the average of tangential and cross shear value inside 
 Error bars are obtained by shuffling VLA catalog's position and shape/orientation information. After this shuffle, galaxy's positoin and shape are no longer correlated, so theoriatially we shouldn't see any tangential shear. We perform this shuffle process for a large number of times, and calcuate each of their averaged tangential shear. We found the mean of shuffled averaged tangential shear is nearly zero, which is exactly what we expect, and then use their standard deviation as our error bar. This is a technique used a lot in lensing.
 ![](j0416+0717+1149averaged_tangential_shear.png)
 The "optical tangential shear" corresponds to published results of the same galaxy clusters by Zitrin et al.
-![](Reference.png）
+
+![](Reference.png)
+
+
 
