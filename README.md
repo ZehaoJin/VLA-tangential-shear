@@ -8,7 +8,7 @@ In this project, I explore **weak lensing**, especially tangential shear, with d
 
 ![](scatter_all.png)
 ![](j0416+0717+1149averaged_tangential_shear.png)
-Note: The result is not clear enough to reach publishing quality! Although the mean might work as a hint for the detection of tangential shear signal, the error bars are quite big. For the same reason, plots shown here might not be nicely polished. It's more like just an archive of what I did.
+**Note: The result is not clear enough to reach publishing quality!** Although the mean might work as a hint for the detection of tangential shear signal, the error bars are quite big. For the same reason, plots shown here might not be nicely polished. It's more like just an archive of what I did.
 
 # Theory
 (A brief introduction of gravitational lensing written by me can be found as Weak Gravitational Lensing_ZehaoJin.pptx in the repo.)
